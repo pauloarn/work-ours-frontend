@@ -33,4 +33,4 @@ The data is loaded from your authentication token, which is saved after the user
 
 ## More about the project
 
-The application backend was developed by the owner of this repository and is hosted on heroku, and will be available for use for 1 month from the date of the last commit, any questions about the project, contact me at: paulo.amador98@gmail.com 
+The application backend was developed by the owner of this repository, any questions about the project, contact me at: paulo.amador98@gmail.com 
